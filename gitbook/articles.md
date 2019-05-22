@@ -5,6 +5,7 @@
 
 # Développement logiciel
 * [Working effectively with legacy code - Présentation](https://www.slideshare.net/nashjain/working-effectively-with-legacy-code-presentation)
+* [Escaping the Technical Debt Cycle - Michael Feathers - Youtube](https://www.youtube.com/watch?v=7hL6g1aTGvo)
 
 # Tutoriels Android
 * [Encryption Tutorial For Android: Getting Started](https://www.raywenderlich.com/778533-encryption-tutorial-for-android-getting-started)
