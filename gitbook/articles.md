@@ -15,7 +15,8 @@
 * [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 * [Coroutines on Android (part II): Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
 * [Architecting Android...Reloaded](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/) Un article réactualisé sur la Clean Architecture appliquée au développement mobile. Les exemples sont programmés en Kotlin.
-
+* [L'injection de dépendances avec Dagger 2](https://www.raywenderlich.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin) *Starter guide* écrit en Kotlin
+* [MVVM avec Kotlin – Android Architecure Components – Dagger 2 – Retrofit – RxAndroid](http://sebastienlaunay.fr/mvvm/) Tuto d'un projet mettant en place le parfait combo
 
 # Actualité Android
 * [Google is restricting app access to Call Log and SMS permissions](https://www.xda-developers.com/google-play-developer-policy-call-log-sms/) La nouvelle politique d'autorisations sur le play store restreint l'accès aux SMS et au journal d'appel aux applications SMS/Appel définits par défaut par l'utilisateur. Des exceptions peuvent être appliquées par Google pour des applications déjà sur le Store.
