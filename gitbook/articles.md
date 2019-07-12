@@ -7,6 +7,7 @@
 * [Working effectively with legacy code - Présentation](https://www.slideshare.net/nashjain/working-effectively-with-legacy-code-presentation)
 * [Escaping the Technical Debt Cycle - Michael Feathers - Youtube](https://www.youtube.com/watch?v=7hL6g1aTGvo)
 * [¿Desde dónde comunicar o tratar situaciones de error? - Método Tradicional](http://xurxodev.com/desde-donde-comunicar-o-tratar-errores-parte-2/) Traitement d'erreurs en programmation orienté fonctionnelle
+* [The Dos and Don’ts of Mobile Development with Kotlin Multiplatform: Part II](https://blog.usejournal.com/the-dos-and-donts-of-mobile-development-with-kotlin-multiplatform-part-ii-d318dae8475b) Bilan par l'entreprise IceRock de son utilisation de Kotlin multiplatform  pour le développement d'applications iOS/Android
 
 # Tutoriels Android
 * [Encryption Tutorial For Android: Getting Started](https://www.raywenderlich.com/778533-encryption-tutorial-for-android-getting-started)
