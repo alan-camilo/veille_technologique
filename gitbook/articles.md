@@ -20,6 +20,7 @@
 * [MVVM avec Kotlin – Android Architecure Components – Dagger 2 – Retrofit – RxAndroid](http://sebastienlaunay.fr/mvvm/) Tuto d'un projet mettant en place le parfait combo
 * [Kotlin Multiplatform very beginner's guide](https://proandroiddev.com/kotlin-multiplatform-very-beginners-guide-part-1-6419f74afa0f) Tuto développement d'une bibliothèque multiplateforme implémentant un client HTTP et une base de données
 * [Using DiffUtil in Android RecyclerView](https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00) La méthode notifyDataSetChanged sur un recyclerView est coûteuse, diffUtil permet de remédier à ce problème de performance
+* [Understanding LiveData made simple](https://medium.com/@elye.project/understanding-live-data-made-simple-a820fcd7b4d0) Article détaillant les fonctionnalités du LiveData
 
 # Actualité Android
 * [Google is restricting app access to Call Log and SMS permissions](https://www.xda-developers.com/google-play-developer-policy-call-log-sms/) La nouvelle politique d'autorisations sur le play store restreint l'accès aux SMS et au journal d'appel aux applications SMS/Appel définits par défaut par l'utilisateur. Des exceptions peuvent être appliquées par Google pour des applications déjà sur le Store.
