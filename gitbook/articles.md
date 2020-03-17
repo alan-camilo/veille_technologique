@@ -23,6 +23,7 @@
 * [Kotlin Multiplatform very beginner's guide](https://proandroiddev.com/kotlin-multiplatform-very-beginners-guide-part-1-6419f74afa0f) Tuto développement d'une bibliothèque multiplateforme implémentant un client HTTP et une base de données
 * [Using DiffUtil in Android RecyclerView](https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00) La méthode notifyDataSetChanged sur un recyclerView est coûteuse, diffUtil permet de remédier à ce problème de performance
 * [Understanding LiveData made simple](https://medium.com/@elye.project/understanding-live-data-made-simple-a820fcd7b4d0) Article détaillant les fonctionnalités du LiveData
+* [Kotlin Multiplatform, Single, shared platform business logic](https://medium.com/@bogdanzurac/kotlin-multiplatform-fd5cb46573ba) Implémentation de l'architecture MVVM avec Kotlin Multiplarform
 
 #Tutoriels Web
 * [Microservice Architecture – Learn, Build and Deploy Microservices](https://www.edureka.co/blog/microservice-architecture/) Concepts architecturaux d'une application en microservices
