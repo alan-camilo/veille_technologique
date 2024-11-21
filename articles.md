@@ -1,3 +1,7 @@
+layout: page
+title: "Articles"
+permalink: /URL-PATH
+
 # Le langage Kotlin
 * [Null Safety Tutorial in Kotlin: Best Practices](https://www.raywenderlich.com/436090-null-safety-tutorial-in-kotlin-best-practices)
 * [Synchronization and Thread-Safety Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d)

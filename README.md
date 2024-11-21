@@ -1,5 +1,1 @@
-# Veille technologique
-
-Liste d'articles et de tutoriels sur le développement web et Android
-
-[Url du gitbook](https://alan-camilo.github.io/veille_technologique/)
+Ce livre réunit des articles et des tutoriels autour du développement web et Android. Ce book est en évolution et s'enrichira au fil de l'eau.
