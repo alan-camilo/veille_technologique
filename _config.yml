@@ -1,6 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: Veille technologique
-description: Ce site réunit des articles et des tutoriels autour du développement web et Android. Ce book est en évolution et s'enrichira au fil de l'eau.
 lsi: false
 safe: true
 source: /

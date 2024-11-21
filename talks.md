@@ -8,8 +8,11 @@ Workshop avout Compose animations
 
 **Notes**
 using graphicsLayer on Animatable for performance instead of scale method: avoid whole recompostion by executing only the lambda
+
 snapTo: move to value straight without animation
+
 registerlisterner: make sure to unscubscribe from system on pause or stop
+
 refaire le codelab au calme à la maison
 
 ##  The complete guide to Compose animations | Eliza Camber
@@ -46,6 +49,7 @@ read sum up
 
 **Notes**
 ream roman elizarov kotlin and exceptions medium post
+
 what is supply chain?
 
 ## Three ways to use AI on Android: The Good, the Bad and the Ugly | Marcel Pinto Biescas
@@ -58,14 +62,23 @@ what is supply chain?
 
 **Notes**
 astuce ios: plugin touchlab pour faire l'interface objective c swift
+
 decoupage des étapes
+
 créer son module commun
+
 migrer domain en retrouvant les équivalents kotlin des classes java utilisés (java.util.data par ex)
+
 couche data en migrant vers des bibl kmp
+
 migrer les ressources en utilisant moko resources
+
 migrer les injections en utilisant koin en plus de dagger hilt
+
 écrire la présentation ios
+
 les étapes peuvent être faires dans le désordre
+
 utiliser des extensions pour migrer progressivement la couche domain
 
 ## Hitchhiker's Guide to Kotlin/Compose Multiplatform samples and libraries | John O’Reilly
@@ -98,13 +111,21 @@ A voir
 
 **Notes**
 check owasp top 10 Vulnerabilities
+
 frida lib dynamic application security testing (DAST)
+
 software composition analysis ?
+
 fuzzing: random input to test behaviour of the application
+
 static application security testing like sonar
+
 security checklist owasp mastg
+
 writeup: post explaining how you solved the problem. he wrote some
+
 hackthebox.com challenges saw -> popular ctf chanllenge website
+
 basic generalist tools: jadx, apktool, ida/ghidra, frida
 
 ## Misc. blog posts to read
