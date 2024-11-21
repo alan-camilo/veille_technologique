@@ -6,7 +6,7 @@ Workshop avout Compose animations
 * [Github repo of the workshop](https://github.com/nicole-terc/composable-sheep)
 * [Github repo about gestures](https://github.com/nicole-terc/sheepit-gestures/tree/main)
 
-**Notes**
+**Notes**\
 using graphicsLayer on Animatable for performance instead of scale method: avoid whole recompostion by executing only the lambda\
 snapTo: move to value straight without animation\
 registerlisterner: make sure to unscubscribe from system on pause or stop\
@@ -18,7 +18,7 @@ refaire le codelab au calme à la maison
 ## Structuring modules in an Android app project | Kinnera Priya Putti
 * [Youtube replay](https://www.youtube.com/watch?v=dSCNkNeg5Pk)
 
-**Notes**
+**Notes**\
 check the 2 tools she talked about, re-check the basic module separation
 
 ## Some relevant librairies
@@ -37,14 +37,14 @@ check the 2 tools she talked about, re-check the basic module separation
 * [Blog summary](https://medium.com/bforbank-tech/from-developer-to-investigitor-cracking-the-case-at-androidmakers-2024-b10cf6428d35)
 * [Youtube replay](https://www.youtube.com/watch?v=xVaIM0yD0SM)
 
-**Notes**
+**Notes**\
 read sum up
 
 ## Building libraries for the next 25 years | Martin Bonnin
 * [Youtube replay](https://www.youtube.com/watch?v=y9_i0utqTCw)
 * [Kotlin and exceptions Medium](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07)
 
-**Notes**
+**Notes**\
 ream roman elizarov kotlin and exceptions medium post\
 what is supply chain?
 
@@ -56,7 +56,7 @@ what is supply chain?
 * [Slides](https://speakerdeck.com/bapness/ton-app-en-kmp-dans-la-vraie-vie-notre-methode-en-7-etapes?slide=17)
 * [Youtube replay](https://www.youtube.com/watch?v=AckQ3zAl954)
 
-**Notes**
+**Notes**\
 astuce ios: plugin touchlab pour faire l'interface objective c swift\
 decoupage des étapes\
 créer son module commun\
@@ -76,27 +76,27 @@ utiliser des extensions pour migrer progressivement la couche domain
 * [Youtube replay](https://www.youtube.com/watch?v=6cYmdoeZ1OY)
 * [Medium blog post](https://medium.com/bumble-tech/crafting-android-bytecode-analysis-tooling-using-a-secret-ingredient-part-1-13e2d5a65113)
 
-**Notes**
+**Notes**\
 read article
 
 ## Unblocking The Main Thread: Solving ANRs and Frozen Frames | Sinan Kozak
 * [Youtube replay](https://www.youtube.com/watch?v=BSB7ZLNm9ac)
 * [Slides](https://fr.slideshare.net/slideshow/unblocking-the-main-thread-solving-anrs-and-frozen-frames/267562738)
 
-**Notes**
+**Notes**\
 dig the tools listed
 
 ## Behind the mirror, Kotlin reflection | Danny Preussler
 * [Youtube replay](https://www.youtube.com/watch?v=jR1SXJcGcMs)
 
-**Notes**
+**Notes**\
 A voir
 
 ## Demystifying CTFs - manipulating Android apps | Merab Tato Kutalia
 * [Youtube replay](https://www.youtube.com/watch?v=FTRPdQ0e11U)
 * [OWASP crackmes for learning](https://mas.owasp.org/crackmes/)
 
-**Notes**
+**Notes**\
 check owasp top 10 Vulnerabilities\
 frida lib dynamic application security testing (DAST)\
 software composition analysis ?\
