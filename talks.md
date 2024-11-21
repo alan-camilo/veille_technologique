@@ -7,12 +7,9 @@ Workshop avout Compose animations
 * [Github repo about gestures](https://github.com/nicole-terc/sheepit-gestures/tree/main)
 
 **Notes**
-using graphicsLayer on Animatable for performance instead of scale method: avoid whole recompostion by executing only the lambda
-
-snapTo: move to value straight without animation
-
-registerlisterner: make sure to unscubscribe from system on pause or stop
-
+using graphicsLayer on Animatable for performance instead of scale method: avoid whole recompostion by executing only the lambda\
+snapTo: move to value straight without animation\
+registerlisterner: make sure to unscubscribe from system on pause or stop\
 refaire le codelab au calme à la maison
 
 ##  The complete guide to Compose animations | Eliza Camber
@@ -48,8 +45,7 @@ read sum up
 * [Kotlin and exceptions Medium](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07)
 
 **Notes**
-ream roman elizarov kotlin and exceptions medium post
-
+ream roman elizarov kotlin and exceptions medium post\
 what is supply chain?
 
 ## Three ways to use AI on Android: The Good, the Bad and the Ugly | Marcel Pinto Biescas
@@ -61,24 +57,15 @@ what is supply chain?
 * [Youtube replay](https://www.youtube.com/watch?v=AckQ3zAl954)
 
 **Notes**
-astuce ios: plugin touchlab pour faire l'interface objective c swift
-
-decoupage des étapes
-
-créer son module commun
-
-migrer domain en retrouvant les équivalents kotlin des classes java utilisés (java.util.data par ex)
-
-couche data en migrant vers des bibl kmp
-
-migrer les ressources en utilisant moko resources
-
-migrer les injections en utilisant koin en plus de dagger hilt
-
-écrire la présentation ios
-
-les étapes peuvent être faires dans le désordre
-
+astuce ios: plugin touchlab pour faire l'interface objective c swift\
+decoupage des étapes\
+créer son module commun\
+migrer domain en retrouvant les équivalents kotlin des classes java utilisés (java.util.data par ex)\
+couche data en migrant vers des bibl kmp\
+migrer les ressources en utilisant moko resources\
+migrer les injections en utilisant koin en plus de dagger hilt\
+écrire la présentation ios\
+les étapes peuvent être faires dans le désordre\
 utiliser des extensions pour migrer progressivement la couche domain
 
 ## Hitchhiker's Guide to Kotlin/Compose Multiplatform samples and libraries | John O’Reilly
@@ -110,22 +97,14 @@ A voir
 * [OWASP crackmes for learning](https://mas.owasp.org/crackmes/)
 
 **Notes**
-check owasp top 10 Vulnerabilities
-
-frida lib dynamic application security testing (DAST)
-
-software composition analysis ?
-
-fuzzing: random input to test behaviour of the application
-
-static application security testing like sonar
-
-security checklist owasp mastg
-
-writeup: post explaining how you solved the problem. he wrote some
-
-hackthebox.com challenges saw -> popular ctf chanllenge website
-
+check owasp top 10 Vulnerabilities\
+frida lib dynamic application security testing (DAST)\
+software composition analysis ?\
+fuzzing: random input to test behaviour of the application\
+static application security testing like sonar\
+security checklist owasp mastg\
+writeup: post explaining how you solved the problem. he wrote some\
+hackthebox.com challenges saw -> popular ctf chanllenge website\
 basic generalist tools: jadx, apktool, ida/ghidra, frida
 
 ## Misc. blog posts to read
