@@ -1,7 +1,3 @@
-layout: page
-title: "Articles"
-permalink: /URL-PATH
-
 # Le langage Kotlin
 * [Null Safety Tutorial in Kotlin: Best Practices](https://www.raywenderlich.com/436090-null-safety-tutorial-in-kotlin-best-practices)
 * [Synchronization and Thread-Safety Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d)
@@ -29,7 +25,7 @@ permalink: /URL-PATH
 * [Understanding LiveData made simple](https://medium.com/@elye.project/understanding-live-data-made-simple-a820fcd7b4d0) Article détaillant les fonctionnalités du LiveData
 * [Kotlin Multiplatform, Single, shared platform business logic](https://medium.com/@bogdanzurac/kotlin-multiplatform-fd5cb46573ba) Implémentation de l'architecture MVVM avec Kotlin Multiplarform
 
-#Tutoriels Web
+# Tutoriels Web
 * [Microservice Architecture – Learn, Build and Deploy Microservices](https://www.edureka.co/blog/microservice-architecture/) Concepts architecturaux d'une application en microservices
 * [Learn about architecting microservices-based applications on Oracle Cloud](https://docs.oracle.com/en/solutions/learn-architect-microservice/index.html#GUID-BDCEFE30-C883-45D5-B2E6-325C241388A5) Tutoriel sur les microservices avec la plateforme Oracle Cloud
 

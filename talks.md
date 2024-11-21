@@ -1,7 +1,3 @@
-layout: page
-title: "Talks"
-permalink: /URL-PATH
-
 # Android Makers 2024
 
 ## Tap it! Shake it! Fling it! Sheep it! - The Compose Gesture Animations Dance! | Nicole Terc

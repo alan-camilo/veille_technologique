@@ -1,7 +1,3 @@
-layout: page
-title: "Libraries"
-permalink: /URL-PATH
-
 # Android
 * [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android)
 Une bibliothèque d'inspection d'application utile lors du développement pour débugger.
